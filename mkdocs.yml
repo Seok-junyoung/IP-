@@ -21,6 +21,7 @@ nav:
   - 예상 현안:
       - 출원 프로세스 예상 현안: audit/expected-issues.md
       - 특허 등급체계 현안 및 대책: audit/patent-grade-improvement.md
+      - 외부대리인 선정·배정: audit/external-counsel-allocation.md
 
 plugins:
   - search:
