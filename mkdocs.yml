@@ -16,6 +16,8 @@ nav:
   - 용어사전:
       - 명세서 기초:
           - 명세서의 구성과 역할: glossary/specification-basics.md
+  - 인터뷰:
+      - 고등급 특허 다출원 엔지니어: interview/high-grade-patent-inventor-interview.md
 
 plugins:
   - search:
