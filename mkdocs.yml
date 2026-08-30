@@ -1,5 +1,6 @@
 site_name: Junyoung IP Wiki
 site_description: 개인 IP·특허 학습 Wiki
+site_url: https://seok-junyoung.github.io/IP-/
 
 theme:
   name: material
