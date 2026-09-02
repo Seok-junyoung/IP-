@@ -17,6 +17,8 @@ nav:
       - 명세서 기초:
           - 명세서의 구성과 역할: glossary/specification-basics.md
           - 명세서 주의 사항: glossary/specification-cautions.md
+  - 세미나:
+      - (출원)세미나 - 명세서에 대한 이해: seminar/patent-specification-understanding.md
   - 인터뷰:
       - 출원 담당자 인터뷰 가이드: interview/patent-prosecution-manager-interview-guide.md
       - 고등급 특허 다출원 엔지니어: interview/high-grade-patent-inventor-interview.md
